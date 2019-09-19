@@ -1,7 +1,5 @@
 # Demo Git Repo
 This is the first file in this repo.
 
-## Ipsum below
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet leo vel porta congue. Fusce suscipit elit ut neque sollicitudin, in lobortis lorem luctus. Integer vel accumsan velit, eu sagittis mauris. Integer sit amet odio blandit, dignissim massa nec, aliquet eros. Proin porttitor, est in fermentum interdum, neque justo finibus risus, et elementum dui est vel magna. Integer porta mauris sapien, ac pellentesque ante iaculis ac. Curabitur iaculis, tortor facilisis sollicitudin vestibulum, velit eros feugiat augue, quis varius urna magna a orci. Aliquam erat volutpat. Curabitur ullamcorper urna urna, nec porta diam sodales sit amet. Curabitur at facilisis magna.
-
-Phasellus in nulla vitae lacus pharetra hendrerit. Curabitur malesuada, augue ac finibus aliquet, elit ligula suscipit neque, ac tincidunt ligula sem in massa. Donec non porttitor orci, rhoncus ultricies justo. Cras vehicula non massa ac aliquam. Mauris bibendum, purus ut efficitur aliquam, odio justo facilisis magna, ac dignissim mauris lectus ac est. Nullam sed turpis at orci tincidunt euismod. Morbi molestie ante in lorem aliquam, at luctus nisi condimentum. Cras mattis vel risus at tristique. Sed congue lorem sed quam elementum aliquam.
+## webservice files
+1. index.html
